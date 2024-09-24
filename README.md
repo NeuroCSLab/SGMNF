@@ -1,2 +1,2 @@
 # SGMNF
-Sparse Gaussian Markov Network for functional connectivity
+Sparse Gaussian Markov Network original code
